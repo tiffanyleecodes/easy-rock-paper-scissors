@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution here](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+
+- Live Site URL: [Live site](https://tiffanyleecodes.github.io/easy-rock-paper-scissors/)
 
 ## My process
 
